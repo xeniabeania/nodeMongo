@@ -3,8 +3,6 @@
 //`javascript
 const mongoose = require("mongoose");
 
-//const dbURI = "mongodb://admin:xifCSvXILYy42Vml@starterdb-shard-00-00-qcur8.mongodb.net:27017,starterdb-shard-00-01-qcur8.mongodb.net:27017,starterdb-shard-00-02-qcur8.mongodb.net:27017/test?ssl=true&replicaSet=StarterDB-shard-0&authSource=admin&retryWrites=true";
-
 const dbURI = "";
 
 const options = {
